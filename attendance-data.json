@@ -2154,7 +2154,7 @@
         "city": "北京"
       },
       {
-        "姓名": "耀寇",
+        "姓名": "耀蔻",
         "日期": "2026/7/14",
         "上班时间": "13:00",
         "签到时间": "12:50",
@@ -3571,13 +3571,13 @@
     }
   ],
   "analysisResult": {
-    "normal": 169,
+    "normal": 170,
     "late": 10,
     "leave": 7,
-    "absent": 12,
+    "absent": 11,
     "abnormal": 0,
     "resigned": 0,
-    "totalAbsent": 12
+    "totalAbsent": 11
   },
   "analysisDetail": [
     {
@@ -4817,8 +4817,8 @@
       "jobCategory": "销售",
       "workTime": "13:00",
       "shift": "未排班",
-      "status": "缺勤",
-      "checkTime": ""
+      "status": "正常",
+      "checkTime": "12:50"
     },
     {
       "name": "归尾",
@@ -5718,14 +5718,14 @@
     },
     "恒和": {
       "total": 15,
-      "normal": 12,
+      "normal": 13,
       "late": 1,
       "leave": 1,
-      "absent": 1,
+      "absent": 0,
       "abnormal": 0,
-      "attendanceRate": "92.9",
+      "attendanceRate": "100.0",
       "lateRate": "7.1",
-      "absentRate": "7.1"
+      "absentRate": "0.0"
     },
     "恒舸": {
       "total": 12,
@@ -6032,6 +6032,6 @@
       "status": "缺勤"
     }
   ],
-  "exportTime": "2026-07-14T09:00:09.993Z",
+  "exportTime": "2026-07-14T09:08:00.933Z",
   "version": "2.0"
 }
